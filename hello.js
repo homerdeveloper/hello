@@ -5,3 +5,7 @@ function hello(){
 function holla(){
     console.log("Holla Bolla");
 }
+
+function rolla(){
+    console.log("Rolla Rolla");
+}
