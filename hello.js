@@ -9,3 +9,6 @@ function holla(){
 function rolla(){
     console.log("Rolla Rolla");
 }
+ function masterToMasterGit1(){
+     console.log("developToReleaseGit1");
+ }
